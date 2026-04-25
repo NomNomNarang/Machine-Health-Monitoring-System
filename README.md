@@ -84,7 +84,9 @@ This system can be used for monitoring industrial machines to detect abnormal be
 <p align="center"
   ><img src="Figure_1.png" alt="Machine Monitoring Demo" width="600"/>
 </p>
-
+<p align="center">
+  Real-time monitoring of simulated sensor data with anomaly detection and classification.
+</p>
 <hr>
 
 <h2>💬 Final Note</h2>
