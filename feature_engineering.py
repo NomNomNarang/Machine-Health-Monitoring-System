@@ -12,7 +12,6 @@ class FeatureEngineer:
 
         for col in self.df.columns:
             series = self.df[col]
-
             features[f"{col}_mean"] = series.rolling(self.window).mean().iloc[-1]
             features[f"{col}_std"] = series.rolling(self.window).std().iloc[-1]
             features[f"{col}_roc"] = series.diff().iloc[-1]

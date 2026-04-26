@@ -14,7 +14,7 @@ class AnomalyDetector:
         self.pipeline.fit(X)
 
     def predict(self, X):
-        return self.pipeline.predict(X)  # -1 anomaly, 1 normal
+        return self.pipeline.predict(X) 
 
     def save(self, path="models/model.pkl"):
         joblib.dump(self.pipeline, path)
