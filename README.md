@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge)
 ![Industry 4.0](https://img.shields.io/badge/Industry-4.0-success?style=for-the-badge)
 
----
 
 ## 🚀 Overview
 This project implements an Industry 4.0-inspired Machine Health Intelligence Platform capable of simulating industrial machine telemetry, performing anomaly detection using Isolation Forest, generating health scores, and providing predictive maintenance insights through an interactive Streamlit dashboard.
@@ -19,8 +18,6 @@ This project implements an Industry 4.0-inspired Machine Health Intelligence Pla
 - Maintenance Recommendations
 - Digital Twin Concepts
 - Real-Time Monitoring
-
----
 
 ## 📡 Sensor Telemetry
 
@@ -49,7 +46,6 @@ Additional behavior:
 6. Health Assessment
 7. Maintenance Recommendation
 
----
 
 ## 🏗️ Architecture
 
@@ -59,7 +55,6 @@ Additional behavior:
 ### Basic Flow
 <img src="assets/workflow.png">
 
----
 
 ## 📊 Dashboard Screenshots
 
@@ -82,7 +77,6 @@ Additional behavior:
 - Streamlit
 - Joblib
 
----
 
 ## 📂 Project Structure
 
