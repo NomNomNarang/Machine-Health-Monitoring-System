@@ -53,29 +53,24 @@ Additional behavior:
 
 ## 🏗️ Architecture
 
-```text
-assets/advanced.png
-```
-```text
-assets/workflow.png
-```
+
+<img src="assets/advanced.png" >
+
+<img src="assets/workflow.png">
+
 ---
 
 ## 📊 Dashboard Screenshots
 
 ### Platform Overview
 
-```text
-assets/DashBoard.png
-```
+<img src="assets/DashBoard.png">
 
 ### Maintenance Insights
 
-```text
-assets/reports.png
-```
+<img src="assets/reports.png">
 
----
+
 
 ## ⚙️ Technology Stack
 
