@@ -56,6 +56,7 @@ Additional behavior:
 
 <img src="assets/advanced.png" >
 
+### Basic Flow
 <img src="assets/workflow.png">
 
 ---
